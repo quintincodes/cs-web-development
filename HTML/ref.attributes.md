@@ -131,7 +131,7 @@ These attributes are grouped based on the elements they are most commonly associ
     -   <b>Possible Values:</b> URL or path to the linked document.
     -   <b>Example:</b>
         ```html
-        <a href="https://github.com/Eddking-QS">My GitHub</a>
+        <a href="https://github.com/quintincodes">My GitHub</a>
         ```
 
 -   <b>`target`<b>
@@ -142,7 +142,7 @@ These attributes are grouped based on the elements they are most commonly associ
     -   <b>Possible Values:</b> `_blank`, `_self`, `_parent`, `_top`.
     -   <b>Example:</b>
         ```html
-        <a href="https://github.com/Eddking-QS" target="_blank">My GitHub</a>
+        <a href="https://github.com/quintincodes" target="_blank">My GitHub</a>
         ```
 
 #### Forms
